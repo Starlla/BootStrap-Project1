@@ -3,6 +3,11 @@ body{
   color:#fff;
 }
 
+html{
+  scroll-padding-top: 50px;
+  scroll-behavior: smooth;
+}
+
 .navbar {
   border-bottom: #008ed6 3px solid;
   opacity: 0.8;
